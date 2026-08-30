@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Vrushabh Kamdi
 
-<!--
-**vrushabhakamdi-dev/vrushabhakamdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student Developer | Python Enthusiast | Robotics & IoT Explorer
 
-Here are some ideas to get you started:
+I'm a student passionate about technology, programming, and building interesting projects. I enjoy learning new technologies and turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Interested in Python and software development
+- 🤖 Exploring Robotics and IoT
+- 🌱 Currently learning new programming technologies
+- 🔐 Interested in cybersecurity concepts and ethical security
+- 🚀 Building projects and improving my coding skills
+
+## 🛠️ Technologies & Tools
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Arduino
+- ESP8266
+- IoT
+
+## 📂 My Projects
+
+Here are some of the projects I have worked on:
+
+- 📶 WiFi QR Code Generator
+- 🌐 IP Location Finder
+- 🔑 Password Analyser
+- 🤖 Robotics & IoT Projects
+
+## 🎯 Goals
+
+- Build useful real-world projects
+- Improve my programming skills
+- Learn more about AI and IoT
+- Contribute to open-source projects
+- Build innovative technology projects
+
+---
+
+⭐ Check out my repositories and feel free to explore my projects!
